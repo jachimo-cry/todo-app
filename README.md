@@ -1,6 +1,6 @@
 # To-Do List App
 
-![To-Do List]
+[To-Do List]
 
 Esta es una mini aplicación desarrollada con Node.js, Express, HTML y CSS que permite a los usuarios agregar y eliminar tareas de una lista de pendientes. La aplicación tiene una interfaz sencilla y amigable, lo que la convierte en una herramienta práctica para organizar tus actividades diarias.
 
